@@ -1,0 +1,47 @@
+[
+	{
+        "id": 1,
+		"title": "Inovacija d.o.o.",
+		"address": "Ulica grada Vukovara 284, 10000 Zagreb",
+		"vat-id": "HR12345678901",
+		"email": "kontakt@inovacija.hr",
+		"phone": "+385 1 2345 678",
+		"website": "http://inovacija.hr"
+	},
+	{
+        "id": 2,
+		"title": "Tehno Plus d.o.o.",
+		"address": "Radnička cesta 50, 10000 Zagreb",
+		"vat-id": "HR23456789012",
+		"email": "info@tehnoplus.hr",
+		"phone": "+385 1 2345 789",
+		"website": "http://tehnoplus.hr"
+	},
+	{
+        "id": 3,
+		"title": "Eko Energija d.o.o.",
+		"address": "Ilica 42, 10000 Zagreb",
+		"vat-id": "HR34567890123",
+		"email": "podrska@ekoenergija.hr",
+		"phone": "+385 1 3456 789",
+		"website": "http://ekoenergija.hr"
+	},
+	{
+        "id": 4,
+		"title": "More i Sunce d.o.o.",
+		"address": "Obala kralja Tomislava 5, 21000 Split",
+		"vat-id": "HR45678901234",
+		"email": "kontakt@moreisunce.hr",
+		"phone": "+385 21 345 678",
+		"website": "http://moreisunce.hr"
+	},
+	{
+        "id": 5,
+		"title": "Zdrava Hrana d.o.o.",
+		"address": "Trg bana Jelačića 7, 31000 Osijek",
+		"vat-id": "HR56789012345",
+		"email": "info@zdravahrana.hr",
+		"phone": "+385 31 234 567",
+		"website": "http://zdravahrana.hr"
+	}
+]

@@ -1,0 +1,94 @@
+[
+	{
+        "id": 1,
+		"title": "Uredski stol Classic",
+		"description": "Prostrani uredski stol izrađen od kvalitetnog hrastovog drveta s čeličnim nogama.",
+		"category": "Uredski namještaj",
+		"base_unit": "komad",
+		"base_price_per_unit": 1123.5,
+		"materials": [
+			{ "units": 2, "material": "Hrastova daska" },
+			{ "units": 4, "material": "Čelične noge" },
+			{ "units": 1, "material": "Lak za drvo" }
+		]
+	},
+	{
+        "id": 2,
+		"title": "Ergonomska uredska stolica",
+		"description": "Udobna stolica s podesivim naslonom i kotačićima, idealna za dugotrajni rad.",
+		"category": "Uredski namještaj",
+		"base_unit": "komad",
+		"base_price_per_unit": 675.0,
+		"materials": [
+			{ "units": 1, "material": "Jastuci za stolice" },
+			{ "units": 5, "material": "Kotačići za stolice" },
+			{ "units": 2, "material": "Čelične noge" }
+		]
+	},
+	{
+        "id": 3,
+		"title": "Konzolni ormarić",
+		"description": "Moderni ormarić s furnirom, idealan za pohranu dokumenata.",
+		"category": "Uredski namještaj",
+		"base_unit": "komad",
+		"base_price_per_unit": 945.0,
+		"materials": [
+			{ "units": 3, "material": "Furnir" },
+			{ "units": 2, "material": "MDF ploča" },
+			{ "units": 4, "material": "Ručke za ormariće" }
+		]
+	},
+	{
+        "id": 4,
+		"title": "Stakleni stol",
+		"description": "Elegantni stol s kaljenim staklom i metalnim nogama.",
+		"category": "Uredski namještaj",
+		"base_unit": "komad",
+		"base_price_per_unit": 1350.0,
+		"materials": [
+			{ "units": 1, "material": "Staklene površine" },
+			{ "units": 4, "material": "Čelične noge" },
+			{ "units": 1, "material": "Boja za metal" }
+		]
+	},
+	{
+        "id": 5,
+		"title": "Višenamjenski ormarić",
+		"description": "Ormarić s više pretinaca, izrađen od iverice, s plastičnim ručkama.",
+		"category": "Uredski namještaj",
+		"base_unit": "komad",
+		"base_price_per_unit": 810.0,
+		"materials": [
+			{ "units": 4, "material": "Ploča od iverice" },
+			{ "units": 6, "material": "Plastični umetci" },
+			{ "units": 2, "material": "Silikonski jastučići" }
+		]
+	},
+	{
+        "id": 6,
+		"title": "Paket uredskog namještaja",
+		"description": "Komplet uredskog namještaja koji uključuje stol, stolicu i ormarić.",
+		"category": "Uredski namještaj",
+		"base_unit": "set",
+		"base_price_per_unit": 3630.0,
+		"materials": [
+			{ "units": 3, "material": "Hrastova daska" },
+			{ "units": 6, "material": "Čelične noge" },
+			{ "units": 1, "material": "Jastuci za stolice" },
+			{ "units": 1, "material": "MDF ploča" }
+		]
+	},
+	{
+        "id": 7,
+		"title": "Kutija za dokumente",
+		"description": "Kartonska kutija za pohranu i transport dokumenata.",
+		"category": "Pakiranje",
+		"base_unit": "komad",
+		"base_price_per_unit": 13.5,
+		"materials": [
+			{ "units": 1, "material": "Kartonska kutija mala" },
+			{ "units": 1, "material": "Ljepljiva traka" },
+			{ "units": 1, "material": "Pjena za pakiranje" }
+		]
+	}
+]

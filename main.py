@@ -1,21 +1,25 @@
 import json
 
 
-#region FUNCTIONS
+#region FILE MANIPULATION FUNCTIONS
 
 #endregion
 
 
-#region FUNCTIONS
+#region CRUD (CREATE, READ, UPDATE, DELETE)
 
 #endregion
 
 
-#region FUNCTIONS
-
+#region UI (USER INTERFACE) FUNCTIONS
+def main_menu():
+    pass
 #endregion
 
+def start_app():
+    pass
 
-#region FUNCTIONS
-
+#region MAIN APP
+while True:
+    start_app()
 #endregion

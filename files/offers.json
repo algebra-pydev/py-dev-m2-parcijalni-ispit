@@ -1,0 +1,92 @@
+[
+	{
+		"id": 1,
+		"offer_number": "O-202402-0001",
+		"offer_date": "2024-02-01",
+		"valid_due_date": "2024-03-01",
+		"customer": "Inovacija d.o.o.",
+		"products": [
+			{ "title": "Uredski stol Classic", "quantity": 2 },
+			{ "title": "Ergonomska uredska stolica", "quantity": 4 }
+		],
+		"tax": 25,
+		"total": 5400.0,
+		"payment_conditions": "Plaćanje unutar 30 dana od isporuke.",
+		"note": "Cijena isporuke nije uključena u cijenu i bit će specificirana nakon realizacije plaćanja."
+	},
+	{
+		"id": 2,
+		"offer_number": "O-202402-0002",
+		"offer_date": "2024-02-05",
+		"valid_due_date": "2024-03-05",
+		"customer": "Tehno Plus d.o.o.",
+		"products": [
+			{ "title": "Stakleni stol", "quantity": 1 },
+			{ "title": "Višenamjenski ormarić", "quantity": 2 }
+		],
+		"tax": 25,
+		"total": 3375.0,
+		"payment_conditions": "Plaćanje prije isporuke.",
+		"note": "Besplatna isporuka za narudžbe iznad 5000 kn."
+	},
+	{
+		"id": 3,
+		"offer_number": "O-202402-0003",
+		"offer_date": "2024-02-10",
+		"valid_due_date": "2024-04-10",
+		"customer": "Eko Energija d.o.o.",
+		"products": [
+			{ "title": "Paket uredskog namještaja", "quantity": 1 },
+			{ "title": "Kutija za dokumente", "quantity": 5 }
+		],
+		"tax": 25,
+		"total": 4550.0,
+		"payment_conditions": "50% plaćanje unaprijed, ostatak po isporuci.",
+		"note": "Uvjeti isporuke će biti dogovoreni nakon uplate avansa."
+	},
+	{
+		"id": 4,
+		"offer_number": "O-202402-0004",
+		"offer_date": "2024-02-15",
+		"valid_due_date": "2024-03-15",
+		"customer": "More i Sunce d.o.o.",
+		"products": [
+			{ "title": "Ergonomska uredska stolica", "quantity": 10 },
+			{ "title": "Konzolni ormarić", "quantity": 3 }
+		],
+		"tax": 25,
+		"total": 10125.0,
+		"payment_conditions": "Plaćanje na rate, u tri jednakih mjesečnih obroka.",
+		"note": "Isporuka se vrši u roku od 7 radnih dana od zadnjeg plaćanja."
+	},
+	{
+		"id": 5,
+		"offer_number": "O-202402-0005",
+		"offer_date": "2024-02-20",
+		"valid_due_date": "2024-04-20",
+		"customer": "Zdrava Hrana d.o.o.",
+		"products": [
+			{ "title": "Uredski stol Classic", "quantity": 5 },
+			{ "title": "Stakleni stol", "quantity": 2 }
+		],
+		"tax": 25,
+		"total": 13500.0,
+		"payment_conditions": "Plaćanje po dostavi, uz mogućnost odgode do 15 dana.",
+		"note": "Specifični uvjeti isporuke bit će definirani ugovorom."
+	},
+	{
+		"id": 6,
+		"offer_number": "O-202402-0006",
+		"offer_date": "2024-02-25",
+		"valid_due_date": "2024-03-25",
+		"customer": "Inovacija d.o.o.",
+		"products": [
+			{ "title": "Višenamjenski ormarić", "quantity": 4 },
+			{ "title": "Kutija za dokumente", "quantity": 10 }
+		],
+		"tax": 25,
+		"total": 5400.0,
+		"payment_conditions": "Direktno plaćanje bankovnim transferom.",
+		"note": "Detalji isporuke i rokovi će biti komunicirani nakon potvrde narudžbe."
+	}
+]

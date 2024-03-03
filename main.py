@@ -17,7 +17,11 @@ def main_menu():
 #endregion
 
 def start_app():
-    pass
+    customers = {}
+    materials = {}
+    products = {}
+    offers = {}
+
 
 #region MAIN APP
 while True:

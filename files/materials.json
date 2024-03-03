@@ -1,6 +1,6 @@
 [
 	{
-    "id": 1,
+		"id": 1,
 		"title": "Hrastova daska",
 		"description": "Visokokvalitetna hrastova daska za izradu stolova i ormarića.",
 		"category": "Drvo",
@@ -8,7 +8,7 @@
 		"base_price_per_unit": "150.00"
 	},
 	{
-    "id": 2,
+		"id": 2,
 		"title": "Čelične noge",
 		"description": "Čelične noge za stolove i stolice, otporne na koroziju.",
 		"category": "Metal",
@@ -16,7 +16,7 @@
 		"base_price_per_unit": "50.00"
 	},
 	{
-    "id": 3,
+		"id": 3,
 		"title": "Vijci za montažu",
 		"description": "Set vijaka za montažu namještaja.",
 		"category": "Pribor",
@@ -24,7 +24,7 @@
 		"base_price_per_unit": "10.00"
 	},
 	{
-    "id": 4,
+		"id": 4,
 		"title": "Jastuci za stolice",
 		"description": "Udobni jastuci za stolice, različite boje.",
 		"category": "Tekstil",
@@ -32,7 +32,7 @@
 		"base_price_per_unit": "25.00"
 	},
 	{
-    "id": 5,
+		"id": 5,
 		"title": "Staklene površine",
 		"description": "Kaljeno staklo za stolove.",
 		"category": "Staklo",
@@ -40,7 +40,7 @@
 		"base_price_per_unit": "200.00"
 	},
 	{
-    "id": 6,
+		"id": 6,
 		"title": "Kartonska kutija velika",
 		"description": "Velike kartonske kutije za pakiranje stolova.",
 		"category": "Pakiranje",
@@ -48,7 +48,7 @@
 		"base_price_per_unit": "5.00"
 	},
 	{
-    "id": 7,
+		"id": 7,
 		"title": "Kartonska kutija mala",
 		"description": "Male kartonske kutije za pakiranje stolica.",
 		"category": "Pakiranje",
@@ -56,7 +56,7 @@
 		"base_price_per_unit": "3.00"
 	},
 	{
-    "id": 8,
+		"id": 8,
 		"title": "Lak za drvo",
 		"description": "Zaštitni lak za drvene površine.",
 		"category": "Obrada",
@@ -64,7 +64,7 @@
 		"base_price_per_unit": "75.00"
 	},
 	{
-    "id": 9,
+		"id": 9,
 		"title": "Boja za metal",
 		"description": "Boja za čelične dijelove namještaja.",
 		"category": "Obrada",
@@ -72,7 +72,7 @@
 		"base_price_per_unit": "80.00"
 	},
 	{
-    "id": 10,
+		"id": 10,
 		"title": "Furnir",
 		"description": "Furnir za dekorativnu završnu obradu.",
 		"category": "Drvo",
@@ -80,14 +80,15 @@
 		"base_price_per_unit": "100.00"
 	},
 	{
-    "id": 11,
+		"id": 11,
 		"title": "Ploča od iverice",
 		"description": "Iverica za izradu jeftinijih stolova i ormarića.",
 		"category": "Drvo",
 		"base_unit": "m2",
 		"base_price_per_unit": "40.00"
 	},
-	{"id": 12,
+	{
+		"id": 12,
 		"title": "MDF ploča",
 		"description": "MDF ploče za izradu kvalitetnog i trajnog namještaja.",
 		"category": "Drvo",
@@ -95,7 +96,7 @@
 		"base_price_per_unit": "60.00"
 	},
 	{
-    "id": 13,
+		"id": 13,
 		"title": "Plastični umetci",
 		"description": "Plastični umetci za noge stolica i stolova.",
 		"category": "Plastika",
@@ -103,7 +104,7 @@
 		"base_price_per_unit": "2.00"
 	},
 	{
-    "id": 14,
+		"id": 14,
 		"title": "Ljepljiva traka",
 		"description": "Ljepljiva traka za sigurno zatvaranje kartonskih kutija.",
 		"category": "Pakiranje",
@@ -111,7 +112,7 @@
 		"base_price_per_unit": "5.00"
 	},
 	{
-    "id": 15,
+		"id": 15,
 		"title": "Stolna ploha",
 		"description": "Predgotovljene stolne plohe za brzu montažu.",
 		"category": "Drvo",
@@ -119,7 +120,7 @@
 		"base_price_per_unit": "120.00"
 	},
 	{
-    "id": 16,
+		"id": 16,
 		"title": "Kotačići za stolice",
 		"description": "Kotačići za uredske stolice.",
 		"category": "Pribor",
@@ -127,7 +128,7 @@
 		"base_price_per_unit": "30.00"
 	},
 	{
-    "id": 17,
+		"id": 17,
 		"title": "Ručke za ormariće",
 		"description": "Metalne ručke za ormariće, modernog dizajna.",
 		"category": "Metal",
@@ -135,7 +136,7 @@
 		"base_price_per_unit": "15.00"
 	},
 	{
-    "id": 18,
+		"id": 18,
 		"title": "Zaštitne podloge",
 		"description": "Podloge za zaštitu podova od ogrebotina.",
 		"category": "Plastika",
@@ -143,7 +144,7 @@
 		"base_price_per_unit": "20.00"
 	},
 	{
-    "id": 19,
+		"id": 19,
 		"title": "Pjena za pakiranje",
 		"description": "Zaštitna pjena za sigurnije pakiranje proizvoda.",
 		"category": "Pakiranje",
@@ -151,7 +152,7 @@
 		"base_price_per_unit": "50.00"
 	},
 	{
-    "id": 20,
+		"id": 20,
 		"title": "Silikonski jastučići",
 		"description": "Silikonski jastučići za tiho zatvaranje vrata ormarića.",
 		"category": "Pribor",
